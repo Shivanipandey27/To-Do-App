@@ -23,5 +23,3 @@ Users can add, complete, and delete tasks directly in the browser.
 3. Click the checkbox to mark a task as completed.
 4. Click the delete icon to remove a task.
 5. Tasks are automatically saved in the browser.
-
-## Project Structure
