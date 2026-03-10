@@ -1,29 +1,20 @@
-To-Do App
+#📝 To-Do App
+Keep track of your tasks in a simple & fun way! ✅
 
-A simple web app to keep track of tasks.
+✨ Features
+  ➕ Add tasks
+  ✅ Mark tasks as done
+  ❌ Delete tasks
+  📱 Works on desktop & mobile
 
-Features:
+💻 Technologies
+  🌐 HTML
+  🎨 CSS
+  ⚡ JavaScript
 
-Add tasks
-
-Delete tasks
-
-Mark tasks as done
-
-Responsive design
-
-Technologies:
-
-HTML
-
-CSS
-
-JavaScript
-
-How to use:
-
-Open index.html in your browser
-
-Type a task and add it
-
-Check it when done or delete if needed
+🚀 How to Use
+1.Open index.html in your browser
+2.Type a task in the input box
+3.Press Enter or click Add ➕
+4.✅ Check tasks when done
+5.❌ Delete tasks you don’t need
