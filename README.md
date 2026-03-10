@@ -1,33 +1,27 @@
-📝 To-Do App
+# To-Do App
 
-A simple web app to manage your tasks and stay organized ✅
+A simple web-based **To-Do List App** built using HTML, CSS, and JavaScript.  
+Users can add, complete, and delete tasks directly in the browser.
 
-1️⃣ Features
+## Features
+- Add new tasks easily
+- Mark tasks as completed
+- Delete tasks when no longer needed
+- Tasks are saved using Local Storage
+- Tasks remain even after refreshing or reopening the browser
+- Responsive design for mobile and desktop
 
-➕ Add tasks
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Browser Local Storage
 
-✅ Mark tasks as done
+## How to Use
+1. Type a task in the input field.
+2. Press **Enter** or click the **Add** button to add the task.
+3. Click the checkbox to mark a task as completed.
+4. Click the delete icon to remove a task.
+5. Tasks are automatically saved in the browser.
 
-❌ Delete tasks
-
-📱 Responsive on desktop & mobile
-
-2️⃣ Technologies
-
-🌐 HTML
-
-🎨 CSS
-
-⚡ JavaScript
-
-3️⃣ How to Use
-
-Open index.html in your browser
-
-Type a task in the input field
-
-Press Enter or click Add ➕
-
-✅ Check tasks when done
-
-❌ Delete tasks you no longer need
+## Project Structure
